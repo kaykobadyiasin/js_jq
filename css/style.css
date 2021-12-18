@@ -1,0 +1,23 @@
+
+
+#bd{
+	margin: 0 auto;
+	margin-top: 20px;
+	padding-top: 25px;
+	width: 300px;
+	height: 150px;
+	font-size: 25px;
+	text-align: center;
+	background-color: green;
+	color: white;
+	border: none;
+}
+.cr{
+	margin: 0 auto;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background-color: red;
+	border: none;
+}
+
