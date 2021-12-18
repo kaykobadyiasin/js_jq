@@ -45,5 +45,10 @@ function noMultiChange(){
 }
 // var text
 
+$(function() {
+  // draggable
+    $( "#bd" ).draggable();
 
+});
+// js map
 
